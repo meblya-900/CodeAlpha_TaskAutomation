@@ -1,0 +1,3 @@
+# Email Extractor - Dependencies
+# No external dependencies are required.
+# Only Python's standard library is used (re, pathlib).

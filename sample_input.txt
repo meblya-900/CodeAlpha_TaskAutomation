@@ -1,0 +1,41 @@
+Subject: Autumn Newsletter and Contact Directory Update
+
+Dear Team,
+
+Welcome to the autumn edition of our company newsletter. Before we begin,
+please note that questions about the internship programme can be sent to
+john@gmail.com or to our coordinator, mary.smith@yahoo.com. For technical
+help, the support desk at support@codealpha.tech is available from Monday
+to Friday between 08:00 and 17:00.
+
+Our regional offices have also shared their details. The UK branch is
+managed by admin123@company.co.uk, while Sarah Connor can be reached at
+sarah.connor@outlook.com. Our university partner, David Miller, uses
+david_miller@university.edu for all research queries.
+
+A quick note on the old directory: the entry "john.doe@" was left incomplete
+and never worked. During data entry, a few other contacts were mistyped as
+@codealpha.tech and user@@example.com, so please ignore them.
+
+For community projects, write to info@greenvalley.org. Human resources can
+be contacted through hr.department@acme-corp.com. Anyone who wants the weekly
+digest should subscribe using peter+newsletter@gmail.com. Our Lusaka
+coordinator, Linda Chipo, can be reached at linda.chipo@copperhub.zm.
+
+Invoices should be sent to (billing@techhub.io) and never to
+contact@localhost, which is only used on our test server. Please also avoid
+sales@example.c and john..doe@example.com, because both addresses are in an
+invalid format and always bounce.
+
+Finally, our recruitment team has opened new positions. Applicants can
+write to mike.johnson99@hotmail.com for general questions or to
+careers@codealpha.tech to submit their CVs.
+
+Reminder: for urgent issues, contact john@gmail.com directly. The helpdesk
+(SUPPORT@CodeAlpha.tech) will reply within one working day. Mary can also be
+reached at mary.smith@yahoo.com, and general enquiries go to
+info@greenvalley.org. The UK team asks everyone to copy admin123@company.co.uk
+on all reports.
+
+Kind regards,
+The Communications Team

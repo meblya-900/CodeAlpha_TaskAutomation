@@ -1,0 +1,13 @@
+admin123@company.co.uk
+billing@techhub.io
+careers@codealpha.tech
+david_miller@university.edu
+hr.department@acme-corp.com
+info@greenvalley.org
+john@gmail.com
+linda.chipo@copperhub.zm
+mary.smith@yahoo.com
+mike.johnson99@hotmail.com
+peter+newsletter@gmail.com
+sarah.connor@outlook.com
+support@codealpha.tech
